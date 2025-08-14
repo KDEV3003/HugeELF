@@ -2,6 +2,7 @@
 
 Usage:
 ```bash
+python3 gen.py
 cd elf_bloat_proj
 mkdir build && cd build
 cmake ..
